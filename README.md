@@ -3,8 +3,7 @@
 `Java 开发`
 
 <pre>
-生活原本沉闷
-                 但跑起来就有风
+生活原本沉闷 但跑起来就有风
 </pre>
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=laoshiren1207.laoShiRen1207" align="center" alt="visitors">
